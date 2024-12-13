@@ -1,0 +1,104 @@
+
+body{
+    background-color: black;
+}
+
+
+.my-class{
+    border-color: black;
+    color: white;
+}
+
+
+
+
+.my-class:hover{ 
+    border-color: #009AD8 ;
+
+      color:  #009AD8;
+
+}
+
+/* ////////section-home///// */
+.my-home{
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height:500px;
+}
+
+#btnSearch{
+    margin-right: 20px;
+}
+
+.my-class2{
+    background-color: #323544;
+}
+
+.content{
+    margin-top: 200px;
+    background-color: #262936;
+}
+
+.my-iconn{
+    color: white;
+    
+    
+   
+}
+
+
+
+ .my-iconn:hover{
+   
+    color: #009AD8 ;
+} 
+
+.text{
+    margin-left: 100px;
+}
+
+.text-home{
+    margin-top: 200px;
+    background-color: antiquewhite;
+    color: white;
+}
+.text-home a{
+    color: white;
+}
+
+
+
+/* homepage//////////////// */
+
+.body-tow{
+    background-color:#1E202B;
+}
+
+
+
+.icons{
+    margin-top: 170px;
+    
+}
+.three{
+    margin-right: 10px;
+    background-color: #262936;
+}
+
+
+.my-iconss i{
+    color:#009AD8;
+}
+
+.main-test{
+    color: #B5C1C8;
+    
+}
+
+.four{
+    color: #B5C1C8;
+    background-color: transparent;
+}
+
